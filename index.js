@@ -1,4 +1,3 @@
-const fs = require('fs');
 const readAll = require('./read-all');
 
 function show(file) {
